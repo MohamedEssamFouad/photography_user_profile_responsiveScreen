@@ -1,16 +1,4 @@
 # photography_user_profile
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_2024-08-19_13-58-15](https://github.com/user-attachments/assets/b6dbaf23-75e3-4ab5-b09f-2ee3f5fa7d42)
+![photo_2024-08-19_13-58-05](https://github.com/user-attachments/assets/d6990637-6959-4c1b-97b4-e3d18f61ba91)
